@@ -1,2 +1,2 @@
-# UICI_Marche-WordPress-Theme
+# UICI Marche WordPress Theme
 WordPress Theme for UICI Marche
